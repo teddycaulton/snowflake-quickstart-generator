@@ -1,0 +1,8 @@
+environments: ['DEV', 'PROD']
+layers: ['BRONZE', 'SILVER', 'GOLD', 'PLATINUM']
+raw_ingestion_role: "INGESTION_ROLE"
+transformation_role: "TRANSFORM_ROLE"
+raw_ingestion_wh: "INGESTION_WH"
+transformation_wh: "TRANSFORM_WH"
+raw_ingestion_wh_size: "XSMALL"
+transformation_wh_size: "XSMALL"
