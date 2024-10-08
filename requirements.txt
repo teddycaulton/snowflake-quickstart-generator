@@ -1,3 +1,3 @@
-pandas @ file:///croot/pandas_1718308974269/work/dist/pandas-2.2.2-cp312-cp312-linux_x86_64.whl#sha256=92c518f7e09edd50b5caa5862636c51d6a29391803f3ada62f68aa52f27d8f92
-PyYAML @ file:///work/perseverance-python-buildout/croot/pyyaml_1698849903511/work
-streamlit @ file:///croot/streamlit_1710262506170/work
+pandas
+PyYAML
+streamlit
