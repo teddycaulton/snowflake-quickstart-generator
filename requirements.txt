@@ -1,3 +1,2 @@
-yaml
 pandas
 streamlit
